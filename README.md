@@ -14,9 +14,9 @@ Neste tutorial, você aprenderá a criar, configurar e gerenciar perfis personal
     
 2. Clique no ícone de engrenagem (Configurações) no canto inferior esquerdo 
     
-3. Selecione **"Profiles"** no menu
+3. Selecione **"Profile"** no menu
     
-4. Escolha **"Profiles"** novamente no submenu
+4. Escolha **"Profiles"** no submenu
 
 <p>2</p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Xr3fFMB6/1.png" alt="1" border="0"></a>
